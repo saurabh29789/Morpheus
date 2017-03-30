@@ -1,0 +1,10 @@
+Tests for Morpheus
+------------------
+
+This is a collection of C++ exec written to test the different features of
+the Morpheus library.
+The test suite (would eventually) consists of:
+
+1. Executables to verify each operator in isolation
+2. Executables to verify operators working together
+3. A single script to enable running of these tests and log the output
